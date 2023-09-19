@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 16px;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.container{
+  width: 100%;
+  padding: 1rem 2rem;
+}
+
+
+.scrollTop{
+  padding: 0.5rem 0.75rem;
+  background-color: rgb(54, 199, 54);
+}
