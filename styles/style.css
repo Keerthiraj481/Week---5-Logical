@@ -5,13 +5,18 @@
 }
 
 html{
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body{
   width: 100vw;
   height: 100vh;
   overflow-x: hidden;
+}
+
+.heading{
+  text-align: center; 
+  margin-bottom: 1rem
 }
 
 .container{
